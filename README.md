@@ -1,6 +1,11 @@
 <div align="center">
 
 # 🐍 Hungry Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lehoangminhhuy1203-hash/python-snake-game/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lehoangminhhuy1203-hash/python-snake-game/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lehoangminhhuy1203-hash/python-snake-game/output/github-snake.svg" />
+</picture>
 
 **A multi-mode Snake game built with Python & Pygame — four difficulty levels, real-time hazards and a health system.**
 
